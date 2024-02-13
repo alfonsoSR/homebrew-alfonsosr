@@ -4,8 +4,8 @@
 class Shapes < Formula
   desc ""
   homepage ""
-  url "https://github.com/alfonsoSR/geometry/archive/refs/tags/v0.0.2.tar.gz"
-  sha256 "01744ab2f98451209bf125792a83fb3ba53a41230016241674285a8699e15fe6"
+  url "https://github.com/alfonsoSR/geometry/archive/refs/tags/0.0.3.tar.gz"
+  sha256 "7529ad1465343cc92f40f87f20c7346280672771cca0edd454c7c3ec22da4c4f"
   license ""
 
   depends_on "cmake" => :build
